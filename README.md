@@ -16,7 +16,7 @@
 <div align="center">
   <sub>Figura 1 - Protótipo do semáforo</sub> <br>
 
-  <img src="C:\Users\Inteli\Desktop\Ponderada_Semaforo\Foto e Vídeo\PrototipoSemaforo.jpg" width=300px>
+  <img src="Foto e Vídeo\PrototipoSemaforo.jpg" width=300px>
 
   <sup>Fonte: Material produzido pelos autores (2024).</sup>
 </div>
